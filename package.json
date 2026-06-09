@@ -6,7 +6,7 @@
     "@parcel/transformer-sass": "^2.7.0",
     "eslint": "^8.22.0",
     "eslint-config-google": "^0.14.0",
-    "parcel": "^2.7.0"
+    "parcel": "^2.16.4"
   },
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
